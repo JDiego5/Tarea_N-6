@@ -110,6 +110,8 @@ A) Identificar una forma de onda sinusoidal y medir sus características
 
 RESOLUCION DE EJERCICIOS
 
+EJERCICIOS CAPITULO 11
+
 ![image](https://user-images.githubusercontent.com/105677161/178861551-d522dc69-2318-483c-a02a-c99b15a0079f.png)
 
 ![image](https://user-images.githubusercontent.com/105677161/178861761-d560607a-417e-42eb-8f85-c83d311df147.png)
@@ -129,6 +131,18 @@ RESOLUCION DE EJERCICIOS
 ![image](https://user-images.githubusercontent.com/105677161/178866743-5807b274-a824-438f-86f0-cca9f561c7a6.png)
 
 ![image](https://user-images.githubusercontent.com/105677161/178866826-0f49a696-c11e-475d-bb71-17bf1adc146d.png)
+
+EJERCICIOS CAPITULO 12
+
+![image](https://user-images.githubusercontent.com/105677161/178867139-c14ea0ef-c131-4236-b0ec-527cda249585.png)
+
+![image](https://user-images.githubusercontent.com/105677161/178867418-243707ef-8366-45bc-8d5a-b8b5cc13c009.png)
+
+![image](https://user-images.githubusercontent.com/105677161/178867536-6d7763ad-991f-41df-aaee-06602defd167.png)
+
+![image](https://user-images.githubusercontent.com/105677161/178867665-e383f78e-d634-4a59-a6a8-f97afb332c58.png)
+
+![image](https://user-images.githubusercontent.com/105677161/178867810-345c9123-24b8-40a8-976a-671a934624e5.png)
 
 
 
