@@ -144,7 +144,15 @@ EJERCICIOS CAPITULO 12
 
 ![image](https://user-images.githubusercontent.com/105677161/178867810-345c9123-24b8-40a8-976a-671a934624e5.png)
 
+Video
 
+Conclusiones
+
+En conclusion un condensador eléctrico o capacitor es un dispositivo pasivo, utilizado en electricidad y electrónica, capaz de almacenar energía sustentando un campo eléctrico. Está formado por un par de superficies conductoras, generalmente en forma de láminas o placas, en situación de influencia total (esto es, que todas las líneas de campo eléctrico que parten de una van a parar a la otra) separadas por un material dieléctrico o por vacío. Ademaslos voltajes y corrientes alternos nos es util para el describir como se generan las ondas seno, por lo que pudimos analizar matemáticamente una forma de onda sinusoidal y se identifico una forma de onda sinusoidal y medir sus características.
+
+Bibliografia
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava edición) [Libro electrónico]. Pearson Education.
 
 
 
